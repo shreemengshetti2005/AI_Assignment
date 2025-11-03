@@ -3,9 +3,13 @@ Develop a computer vision-based system that counts the number of people entering
 Assignment Requirements:
 
 ✅ Detect humans in video frames
+
 ✅ Track their movements frame-by-frame
+
 ✅ Define a virtual line/ROI for counting
+
 ✅ Count entries and exits accurately
+
 ✅ Display counts in real-time
 
 🚀 Solution Overview
