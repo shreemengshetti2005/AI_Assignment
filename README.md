@@ -1,4 +1,4 @@
-# 👣 Intelligent People Counting System (YOLOv8 + ByteTrack)
+# Intelligent People Counting System (YOLOv8 + ByteTrack)
 
 This project implements a **computer vision-based footfall counting system** that counts the number of people **entering and exiting** through a doorway, corridor, or gate in a video feed.
 
